@@ -1,0 +1,7 @@
+.DS_Store
+package-lock.json
+.idea
+/**/**/.idea/
+node_modules
+**/node_modules
+**/**/node_modules
